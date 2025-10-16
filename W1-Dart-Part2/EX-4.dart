@@ -19,3 +19,4 @@ void main() {
 
   print('Total: \$${total.toStringAsFixed(2)}');
 }
+
