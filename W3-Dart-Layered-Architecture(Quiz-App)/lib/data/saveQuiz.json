@@ -1,0 +1,15 @@
+{
+  "questions": [
+    {
+      "id": "5368726c-d617-4c2d-83cc-15c0f49096de",
+      "title": "Test Q1",
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "goodChoice": "B",
+      "points": 10
+    }
+  ]
+}
