@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "W4-Manipulate-basic-widgets (Flutter)",
+            "program": "lib/ex1.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
