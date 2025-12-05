@@ -1,0 +1,19 @@
+
+{
+  "id": "quiz-1",
+  "title": "General Knowledge",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the capital of Cambodia?",
+      "choices": ["Phnom Penh", "Siem Reap", "Battambang", "Kampot"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "text": "Flutter uses which language?",
+      "choices": ["Java", "Kotlin", "Dart", "Swift"],
+      "correctIndex": 2
+    }
+  ]
+}
